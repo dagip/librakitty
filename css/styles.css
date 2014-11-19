@@ -537,15 +537,15 @@ header {
     background-color: #fff;
 }
 h2.logo-text {
-    font-size: 24px;
+    font-size: 40px;
     margin: 0;
-    padding: 20px 20px;
+    padding: 24px 20px;
 }
 .logo {
     float: left;
     text-align: right;
-    height: 68px;
-    background-color: #63c6ae;
+    height: 100px;
+    background-color: #c194f5;
     position: relative;
     color: #fff;
 }
@@ -570,10 +570,10 @@ nav ul li {
 }
 nav ul li a {
     display: block;
-    padding: 25px 43px 23px 5px;
+    padding: 36px 43px 23px 5px;
     text-transform: uppercase;
     color: #586165;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 600;
     letter-spacing: -0.02em;
     transition: 0.5s ease;
